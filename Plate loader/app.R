@@ -1,4 +1,4 @@
-
+###This app takes the weight which the user wants to lift and calculates the amount of weight which they need to put on each side of the barbell
 
 library(shiny)
 library(shinythemes)
