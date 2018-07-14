@@ -4,4 +4,4 @@ A calculator to determine how many of each plate type are to be put on each side
 This app is hosted at: https://trinhdamere.shinyapps.io/plate_loader/
 
 I made this APP after completing the "Building Web Applications in R with Shiny" Datacamp course. 
-It's purpose was to practise some of the content in the course. 
+It's purpose was to practise some of the content in the course. It makes use of fluidPage formatting, different input types, eventReactive's, reactive variables and text outputs. 
