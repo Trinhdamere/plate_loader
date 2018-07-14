@@ -3,7 +3,7 @@
 library(shiny)
 library(shinythemes)
 
-# Define UI for application that draws a histogram
+# Define UI for application 
 ui <- fluidPage(
   
   theme = shinytheme("flatly"),
