@@ -1,0 +1,12 @@
+name: plate_loader
+title:
+username:
+account: trinhdamere
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 380398
+bundleId: 1480153
+url: https://trinhdamere.shinyapps.io/plate_loader/
+when: 1531535516.73764
+asMultiple: FALSE
+asStatic: FALSE
