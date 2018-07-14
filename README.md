@@ -1,5 +1,5 @@
 # Plate_loader
-A calculator to determine how many of each plate to but on each side of the barbell. 
+A calculator to determine how many of each plate type are to be put on each side of the barbell. 
 
 This app is hosted at: https://trinhdamere.shinyapps.io/plate_loader/
 
